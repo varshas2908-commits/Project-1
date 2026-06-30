@@ -1,11 +1,11 @@
-# 🎵 Spotify Analytics Dashboard | Power BI
+#  Spotify Analytics Dashboard | Power BI
 
-## 📖 Project Overview
+##  Project Overview
 This project is an interactive **Power BI dashboard** built using the **Spotify 2023 dataset**. The dashboard provides insights into music streaming trends, track characteristics, and artist performance through data visualization and analytics.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze overall streaming performance
 - Identify top tracks and artists
 - Explore relationships between musical characteristics
@@ -14,19 +14,19 @@ This project is an interactive **Power BI dashboard** built using the **Spotify 
 
 ---
 
-## 📊 Dashboard Features
-- 📌 Total Streams KPI
-- 🎵 Top Tracks by Streams
-- ⭐ Popular Artists Analysis
-- 📅 Release Year Analysis
-- 📈 Track Characteristics Comparison
-- 🎙️ Speechiness vs Acousticness Analysis
-- 🎼 Tracks by Key Distribution
-- 🎛️ Interactive Filters and Slicers
+##  Dashboard Features
+-  Total Streams KPI
+-  Top Tracks by Streams
+-  Popular Artists Analysis
+-  Release Year Analysis
+-  Track Characteristics Comparison
+-  Speechiness vs Acousticness Analysis
+-  Tracks by Key Distribution
+-  Interactive Filters and Slicers
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - **Power BI**
 - **Power Query**
 - **DAX (Data Analysis Expressions)**
@@ -34,7 +34,7 @@ This project is an interactive **Power BI dashboard** built using the **Spotify 
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 - Total streams exceeded **304 billion**.
 - Certain tracks and artists dominate streaming performance.
 - Musical characteristics such as **Danceability, Energy, and Valence** show interesting relationships with popularity.
@@ -49,7 +49,7 @@ This project is an interactive **Power BI dashboard** built using the **Spotify 
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Add predictive analysis for hit songs
 - Include cross-platform streaming comparison
 - Implement advanced DAX calculations and forecasting
@@ -76,5 +76,4 @@ Spotify-PowerBI-Dashboard
 ---
 
 ## 🙌 Connect With Me
-If you found this project interesting, feel free to ⭐ this repository and connect with me on LinkedIn- www.linkedin.com/in/
-s-varsha200629 .Feedback and suggestions are always welcome!
+If you found this project interesting, feel free to ⭐ this repository and connect with me on LinkedIn- www.linkedin.com/in/s-varsha200629 .Feedback and suggestions are always welcome!
